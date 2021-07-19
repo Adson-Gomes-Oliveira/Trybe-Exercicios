@@ -23,6 +23,7 @@ O JavaScript te permite dar dinamismos Ã s pÃ¡ginas. Ã‰ ele quem garante q
 
 #5 Muitas opÃ§Ãµes de bibliotecas e frameworks que vÃ£o maximizar sua produtividade.
 
-#6 SoftSkills muito úteis para o mercado de trabalho.
+#6 Como codar em html.
 
 #7 Como criar curriculos.
+
