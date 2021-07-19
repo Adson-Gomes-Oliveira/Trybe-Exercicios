@@ -22,3 +22,5 @@ O JavaScript te permite dar dinamismos Ã s pÃ¡ginas. Ã‰ ele quem garante q
 #4 Utilizado no back-end e no front-end.
 
 #5 Muitas opÃ§Ãµes de bibliotecas e frameworks que vÃ£o maximizar sua produtividade.
+
+#6 Como codar em html.
