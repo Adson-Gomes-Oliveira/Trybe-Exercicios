@@ -1,0 +1,15 @@
+👾🛡️ -------TEMPLARIOS DO GITHUB------- 🛡️👾
+
+O que acontece quando digitamos www.google.com no navegador, e apertamos ENTER ?
+
+Quando se digita o endereço do site e da enter, é enviada um requisição através de um DNS e o servidor de host retorna um resultado, com uma interpretação do navegador é retornado ao usuario o resultado seja um site ou uma pesquisa.
+
+>>> Passo a passo: 
+
+1 - O DNS recebe a requisição do usuario (www.google.com) e encontra o dominio do google, através de uma resolução de nomes.
+
+2 - O navegador manda uma requisição HTTP ao servidor pedindo que envie uma copia do site para o cliente, todos os dados enviados entre cliente e servidor são enviador por meio de TCP/IP.
+
+3 - Caso a requisição for aprovada, são enviados os arquivos do site para o navegador (cliente) com uma serie de pequenos pedaços chamados pacotes.
+
+4 - Agora o navegador junta e monta os pacotes retornando o site completo ao usuario.
