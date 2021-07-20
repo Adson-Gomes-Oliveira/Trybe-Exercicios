@@ -412,9 +412,9 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot*box_with_check: 2-1: \_What is it and what is it used for?*
 
-:black*large_square: 2-2: \_Understanding the commands*
+:ballot*box_with_check: 2-2: \_Understanding the commands*
 
-:black*large_square: 2-3: \_Internet - Understading how it works*
+:ballot*box_with_check: 2-3: \_Internet - Understading how it works*
 
 ### Part 3: Introduction - HTML & CSS
 
