@@ -24,7 +24,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ### Bloco 3: Introdução - HTML & CSS
 
-:black_large_square: 3-1: \_HTML & CSS - Estruturas de página
+:ballot_box_with_check: 3-1: \_HTML & CSS - Estruturas de página
 
 :black_large_square: 3-2: \_HTML & CSS - Primeiros passos em CSS
 
@@ -418,7 +418,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 ### Part 3: Introduction - HTML & CSS
 
-:black_large_square: 3-1: \_HTML & CSS - Page structure
+:ballot_box_with_check: 3-1: \_HTML & CSS - Page structure
 
 :black_large_square: 3-2: \_HTML & CSS - First steps
 
