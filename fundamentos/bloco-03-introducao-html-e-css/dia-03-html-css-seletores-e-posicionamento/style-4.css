@@ -1,0 +1,42 @@
+div:hover {
+  border: 5px solid green;
+}
+
+div:nth-child(3):hover {
+  background-color: lightblue;
+}
+
+div:nth-child(4):hover {
+  background-color: magenta;
+}
+
+div:nth-child(5):hover {
+  background-color: yellow;
+}
+
+div:nth-child(6):hover {
+  background-color: black;
+  color: white;
+}
+
+div:nth-child(3) h3 {
+  color: black;
+  font-style: italic;
+}
+
+div:nth-child(4) h3 {
+  color: yellow;
+}
+
+div:nth-child(5) h3 {
+  color: magenta;
+  font-style: italic;
+}
+
+div:nth-child(6) h3 {
+  color: lightblue;
+}
+
+div:nth-child(5) {
+  padding: 50px 25px;
+}
