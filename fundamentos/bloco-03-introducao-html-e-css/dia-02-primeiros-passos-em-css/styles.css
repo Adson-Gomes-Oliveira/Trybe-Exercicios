@@ -1,0 +1,36 @@
+body {
+  font-size: 16px;
+}
+
+.title-styles {
+  color: orange;
+  font-size: 65px;
+  font-family: sans-serif;
+}
+
+.list-styles {
+  line-height: 60px;
+  list-style: none;
+  text-align: center;
+  text-decoration: none;
+  background: black;
+  color: white;
+  padding: 20px 15px;
+  margin-top: 30px;
+}
+
+.subtitile-styles {
+  font-weight: 600;
+  font-size: 48px;
+}
+
+#yellow-list-item {
+  background-color: yellow;
+}
+
+#red-list-item {
+  background-color: red;
+}
+#brown-list-item {
+  background-color: brown;
+}

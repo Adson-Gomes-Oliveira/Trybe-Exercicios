@@ -26,7 +26,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 :ballot_box_with_check: 3-1: \_HTML & CSS - Estruturas de página
 
-:black_large_square: 3-2: \_HTML & CSS - Primeiros passos em CSS
+:ballot_box_with_check: 3-2: \_HTML & CSS - Primeiros passos em CSS
 
 :black_large_square: 3-3: \_HTML & CSS - Seletores e posicionamento
 
@@ -420,7 +420,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 3-1: \_HTML & CSS - Page structure
 
-:black_large_square: 3-2: \_HTML & CSS - First steps
+:ballot_box_with_check: 3-2: \_HTML & CSS - First steps
 
 :black_large_square: 3-3: \_HTML & CSS - Selectors and positioning
 
