@@ -21,7 +21,6 @@ div:nth-child(6):hover {
 
 div:nth-child(3) h3 {
   color: black;
-  font-style: italic;
 }
 
 div:nth-child(4) h3 {
@@ -30,13 +29,13 @@ div:nth-child(4) h3 {
 
 div:nth-child(5) h3 {
   color: magenta;
-  font-style: italic;
+  padding: 10px;
 }
 
 div:nth-child(6) h3 {
   color: lightblue;
 }
 
-div:nth-child(5) {
-  padding: 50px 25px;
+div:nth-child(odd) {
+  font-style: italic;
 }
