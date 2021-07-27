@@ -1,0 +1,50 @@
+#main-header {
+  text-align: center;
+}
+
+footer {
+  font-size: 13px;
+}
+
+aside section {
+  float: right;
+  width: 300px;
+  border: 2px solid red;
+  padding: 10px;
+}
+
+img {
+  width: 300px;
+}
+
+article.article-main section {
+  margin-bottom: 50px;
+}
+
+nav.menu-nav ul li {
+  display: inline-block;
+  margin-left: 50px;
+}
+
+.menu-nav ul {
+  text-align: center;
+  margin-left: -100px;
+  padding: 15px 0;
+}
+
+span {
+  font-weight: 700;
+}
+
+.cientific-name {
+  font-style: italic;
+}
+
+.references {
+  text-align: center;
+}
+
+table tr td {
+  padding: 10px;
+  border: 1px solid black;
+}
