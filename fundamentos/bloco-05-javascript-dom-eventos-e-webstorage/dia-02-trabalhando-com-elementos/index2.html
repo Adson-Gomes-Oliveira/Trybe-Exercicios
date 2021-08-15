@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Exercício 5.2</title>
+    <style>
+      section {
+        border-color: black;
+        border-style: solid;
+      }
+
+      .title {
+        text-align: center;
+      }
+
+      .main-content {
+        background-color: yellow;
+      }
+
+      .main-content .center-content {
+        background-color: red;
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .main-content .center-content p {
+        font-style: italic;
+      }
+
+      .main-content .left-content {
+        background-color: green;
+        width: 60%;
+        margin-left: 0;
+        margin-right: auto;
+      }
+
+      .main-content .left-content .small-image {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 100%;
+      }
+
+      .main-content .right-content {
+        background-color: blue;
+        width: 60%;
+        margin-left: auto;
+        margin-right: 0;
+      }
+
+      .main-content .description {
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <script>
+      // COLOQUE SEU CÓDIGO AQUI
+      let title = document.createElement('h1')
+      let titleH3 = document.createElement('h3')
+      let titleH3Alt01 = document.createElement('h3')
+      let titleH3Alt02 = document.createElement('h3')
+      let main = document.createElement('main')
+      let sectionCenter = document.createElement('section')
+      let sectionLeft = document.createElement('section')
+      let sectionRight = document.createElement('section')
+      let text = document.createElement('p')
+      let image = document.createElement('img')
+      let ulList = document.createElement('ul')
+
+      const numberNames = [
+        'one',
+        'two',
+        'three',
+        'four',
+        'five',
+        'six',
+        'seven',
+        'eight',
+        'nine',
+        'ten'
+      ]
+
+      for (number of numberNames) {
+        let listItem = document.createElement('li')
+        listItem.innerText = number
+
+        ulList.appendChild(listItem)
+      }
+
+      title.innerText = 'Exercício 5.2 - JavaScript DOM'
+      title.className = 'title'
+      main.className = 'main-content'
+      main.style.background = 'green'
+      sectionCenter.className = 'center-content'
+      sectionLeft.className = 'left-content'
+      sectionRight.className = 'right-content'
+      sectionRight.style.margin = 'auto'
+      text.innerText = 'Estou Aprendendo JavaScript'
+      image.src = 'https://picsum.photos/200'
+      image.className = 'small-image'
+      titleH3.className = 'description'
+      titleH3Alt01.className = 'description'
+      titleH3Alt02.className = 'description'
+
+      document.body.appendChild(title)
+      document.body.appendChild(main)
+      main.appendChild(sectionCenter)
+      main.appendChild(sectionLeft)
+      main.appendChild(sectionRight)
+      main.appendChild(titleH3)
+      main.appendChild(titleH3Alt01)
+      main.appendChild(titleH3Alt02)
+      sectionCenter.appendChild(text)
+      sectionLeft.appendChild(image)
+      sectionRight.appendChild(ulList)
+
+      main.removeChild(sectionLeft)
+      ulList.lastChild.remove()
+      ulList.lastChild.remove()
+      // COLOQUE SEU CÓDIGO AQUI
+    </script>
+  </body>
+</html>
