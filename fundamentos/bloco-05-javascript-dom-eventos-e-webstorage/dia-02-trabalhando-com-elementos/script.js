@@ -26,3 +26,18 @@ console.log(
   document.querySelector('.bisnetoDoPai').parentNode.parentNode
     .nextElementSibling
 )
+
+// TERCEIRA ETAPA DOS EXERCICIOS
+const pai = document.querySelector('#pai')
+
+for (let index = pai.children.length - 1; index >= 0; index -= 1) {
+  const currentChildren = pai.children[index]
+  if (currentChildren.id !== 'elementoOndeVoceEsta') {
+    currentChildren.remove()
+  }
+}
+
+const segundoEUltimoFilhoDoFilho = document.querySelector(
+  '#segundoEUltimoFilhoDoFilho'
+)
+segundoEUltimoFilhoDoFilho.remove()
