@@ -28,37 +28,37 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 :ballot_box_with_check: 3-2: \_HTML & CSS - Primeiros passos em CSS
 
-:black_large_square: 3-3: \_HTML & CSS - Seletores e posicionamento
+:ballot_box_with_check: 3-3: \_HTML & CSS - Seletores e posicionamento
 
-:black_large_square: 3-4: \_HTML Semântico
+:ballot_box_with_check: 3-4: \_HTML Semântico
 
-:black_large_square: 3-5: \_Projeto - Lesson Learned
+:ballot_box_with_check: 3-5: \_Projeto - Lesson Learned
 
 ### Bloco 4: Introdução - JavaScript e Lógica
 
-:black_large_square: 4-1: \_JavaScript - Primeiros passos
+:ballot_box_with_check: 4-1: \_JavaScript - Primeiros passos
 
-:black_large_square: 4-2: \_JavaScript - Array e loop For
+:ballot_box_with_check: 4-2: \_JavaScript - Array e loop For
 
-:black_large_square: 4-3: \_JavaScript - Lógica de Programação e Algoritmos
+:ballot_box_with_check: 4-3: \_JavaScript - Lógica de Programação e Algoritmos
 
-:black_large_square: 4-4: \_JavaScript - Objetos e funções
+:ballot_box_with_check: 4-4: \_JavaScript - Objetos e funções
 
-:black_large_square: 4-5: \_Projeto - Playground Functions
+:ballot_box_with_check: 4-5: \_Projeto - Playground Functions
 
 ### Bloco 5: Javascript: DOM, Eventos e Web Storage
 
-:black_large_square: 5-1: \_JavaScript - DOM e seletores
+:ballot_box_with_check: 5-1: \_JavaScript - DOM e seletores
 
-:black_large_square: 5-2: \_JavaScript - Trabalhando com elementos
+:ballot_box_with_check: 5-2: \_JavaScript - Trabalhando com elementos
 
-:black_large_square: 5-3: \_JavaScript - Eventos
+:ballot_box_with_check: 5-3: \_JavaScript - Eventos
 
-:black_large_square: 5-4: \_JavaScript - Web Storage
+:ballot_box_with_check: 5-4: \_JavaScript - Web Storage
 
-:black_large_square: 5.5: \_Projeto: Arte com Pixels
+:ballot_box_with_check: 5.5: \_Projeto: Arte com Pixels
 
-:black_large_square: 5-6: \_Projeto - Lista de tarefas
+:ballot_box_with_check: 5-6: \_Projeto - Lista de tarefas
 
 :black_large_square: 5-7: \_Projeto Bônus - Meme Generator
 
