@@ -5,19 +5,34 @@ const input = document.getElementById('input')
 const myWebpage = document.getElementById('my-spotrybefy')
 
 function addClass(originEvent) {
-  originEvent.target.classList.add('tech')
-}
+  const removeClass = document.querySelectorAll('.tech')
 
-function changeTech() {
-  let techBox = document.querySelector('.tech')
-  techBox
+  switch (removeClass.length) {
+    case 0:
+      originEvent.target.classList.add('tech')
+      break
+
+    default:
+      removeClass[0].classList.remove('tech')
+      originEvent.target.classList.add('tech')
+      break
+  }
 }
 
 firstLi.addEventListener('click', addClass)
 secondLi.addEventListener('click', addClass)
 thirdLi.addEventListener('click', addClass)
 
-input.addEventListener('keyup', changeTech)
+input.addEventListener('input', function (originEvent) {
+  const changeTech = document.querySelector('.tech')
+  changeTech.innerText = originEvent.target.value
+})
+myWebpage.addEventListener('dblclick', function () {
+  window.location.replace('https://adson.netlify.app')
+})
+myWebpage.addEventListener('mouseover', function (originEvent) {
+  originEvent.target.style.color = 'yellow'
+})
 
 /*
  Copie esse arquivo e edite apenas ele;
