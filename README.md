@@ -60,71 +60,63 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 :ballot_box_with_check: 5-6: \_Projeto - Lista de tarefas
 
-:black_large_square: 5-7: \_Projeto Bônus - Meme Generator
+:ballot_box_with_check: 5-7: \_Projeto Bônus - Meme Generator
 
-:black_large_square: 5-7: \_Projeto Bônus - Adivinhe a cor
+:ballot_box_with_check: 5-7: \_Projeto Bônus - Adivinhe a cor
 
-:black_large_square: 5-7: \_Projeto Bônus - Carta Misteriosa
+:ballot_box_with_check: 5-7: \_Projeto Bônus - Carta Misteriosa
 
 ### Bloco 6: HTML & CSS avançado
 
-:black_large_square: 6-1: \_HTML & CSS - Forms
+:ballot_box_with_check: 6-1: \_HTML & CSS - Forms
 
-:black_large_square: 6-2: \_Bibliotecas JavaScript e Frameworks CSS
+:ballot_box_with_check: 6-2: \_Bibliotecas JavaScript e Frameworks CSS
 
-:black_large_square: 6-3: \_CSS Flexbox - Part 1
+:ballot_box_with_check: 6-3: \_CSS Flexbox - Part 1
 
-:black_large_square: 6-4: \_CSS Flexbox - Part 2
+:ballot_box_with_check: 6-4: \_CSS Flexbox - Part 2
 
-:black_large_square: 6-5: \_CSS Responsivo - Mobile First
+:ballot_box_with_check: 6-5: \_CSS Responsivo - Mobile First
 
-:black_large_square: 6-6: \_Projeto - Trybewarts
+:ballot_box_with_check: 6-6: \_Projeto - Trybewarts
 
 ### Bloco 7: JavaScript ES6 & Testes Unitários
 
-:black_large_square: 7-1: \_JavaScript ES6 - let, const, arrow functions e template literals
+:ballot_box_with_check: 7-1: \_JavaScript ES6 - let, const, arrow functions e template literals
 
-:black_large_square: 7-2: \_JavaScript ES6 - Objects
+:ballot_box_with_check: 7-2: \_JavaScript ES6 - Objects
 
-:black_large_square: 7-3: \_Testes unitários em JavaScript
+:ballot_box_with_check: 7-3: \_Testes unitários em JavaScript
 
-:black_large_square: 7-4: \_Projeto - JavaScript Testes Unitários
+:ballot_box_with_check: 7-4: \_Projeto - JavaScript Testes Unitários
 
 ### Bloco 8: Higher Order Functions do JavaScript ES6
 
-:black_large_square:8-1: \_JavaScript ES6 - Introdução Higher Order Functions
+:ballot_box_with_check:8-1: \_JavaScript ES6 - Introdução Higher Order Functions
 
-:black_large_square: 8-2: \_JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+:ballot_box_with_check: 8-2: \_JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
 
-:black_large_square: 8-3: \_JavaScript ES6 - Higher Order Functions - map e filter
+:ballot_box_with_check: 8-3: \_JavaScript ES6 - Higher Order Functions - map e filter
 
-:black_large_square: 8-4: \_JavaScript ES6 - Higher Order Functions - reduce
+:ballot_box_with_check: 8-4: \_JavaScript ES6 - Higher Order Functions - reduce
 
-:black_large_square: 8-5: \_JavaScript ES6 - spread operator, rest parameter, destructuring e mais
+:ballot_box_with_check: 8-5: \_JavaScript ES6 - spread operator, rest parameter, destructuring e mais
 
-:black_large_square: 8-5: \_Projeto - Zoo functions
+:ballot_box_with_check: 8-5: \_Projeto - Zoo functions
 
 ### Bloco 9: Javascript Assíncrono e Promises
 
-:black_large_square: 9-1: \_JavaScript Assíncrono e Callbacks
+:ballot_box_with_check: 9-1: \_JavaScript Assíncrono e Callbacks
 
-:black_large_square: 9-2: \_JavaScript Promises
+:ballot_box_with_check: 9-2: \_JavaScript Promises
 
-:black_large_square: 9-3: \_Projeto - Carrinho de Compras
+:ballot_box_with_check: 9-3: \_Jest - Testes Assíncronos
 
-### Bloco 10: Testes automatizados com Jest
-
-:black_large_square: 10-1: \_Primeiros passos no Jest
-
-:black_large_square: 10-2: \_Jest - Testes Assíncronos
-
-:black_large_square: 10-3: \_Jest - Simulando comportamentos
-
-:black_large_square: 10-4: \_Projeto - Jest Assíncrono e Mocking
+:ballot_box_with_check: 9-4: \_Projeto - Carrinho de Compras
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
-### Bloco 11: Introdução - React
+### Bloco 10: Introdução - React
 
 :black_large_square: 11-1: 'Hello, world!' no React!\_
 
@@ -132,27 +124,29 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 :black_large_square: 11-3: \_Projeto - Movie Cards Library
 
-### Bloco 12: Componentes com Estado, Eventos e Formulários com React
+### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
 :black_large_square: 12-1: \_Components com estado e eventos
 
-:black* large_square: 12-2: \_Formulários no React
-:black* large_square: 12-3: \_Projeto - Movie Cards Library Stateful
+:black\* large_square: 12-2: \_Formulários no React
 
-### Bloco 13: Ciclo de Vida de Componentes e React Router
+:black\* large_square: 12-3: \_Projeto - Movie Cards Library Stateful
 
-:black* large_square: 13-1: \_Ciclo de vida de componentes
-:black* large_square: 13-2: \_React Router
+### Bloco 12: Ciclo de Vida de Componentes e React Router
+
+:black\* large_square: 13-1: \_Ciclo de vida de componentes
+
+:black\* large_square: 13-2: \_React Router
 
 :black_large_square: 13-3: \_Projeto - Movie Cards Library CRUD
 
-### Bloco 14: Metodologias ágeis
+### Bloco 13: Metodologias ágeis
 
 :black_large_square: 14-1: \_Metodologias ágeis
 
 :black_large_square: 14-2: \_Projeto - Frontend Online Store
 
-### Bloco 15: Testes automatizados com React Testing Library
+### Bloco 14: Testes automatizados com React Testing Library
 
 :black_large_square: 15-1: \_RTL - Primeiros Passos
 
@@ -162,7 +156,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 :black_large_square: 15-3: \_Projeto - Testes em React
 
-### Bloco 16: Introdução ao Redux
+### Bloco 15: Introdução ao Redux
 
 :black_large_square: 16-1: \_Introdução ao Redux - O estado global da aplicação
 
@@ -176,11 +170,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 :black_large_square:16-6: \_Projeto - Trybe Wallet
 
-### Bloco 17: Projeto React
+### Bloco 16: Projeto React
 
 :black_large_square: 17-1: \_Projeto - Jogo de Trivia
 
-### Bloco 18: Context API & Reack Hooks
+### Bloco 17: Context API & Reack Hooks
 
 :black_large_square: 18-1: \_Context API do React
 
@@ -190,13 +184,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 :black_large_square: 18-4: \_Projeto - StarWars Datatable com Context API e Hooks
 
-### Bloco 19: Projeto Final de Front-end
+### Bloco 18: Projeto Final de Front-end
 
 :black_large_square: 19-1: \_Projeto - App de Receitas
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
-### Bloco 20: Introdução - SQL
+### Bloco 19: Introdução - SQL
 
 :black_large_square: 20-1: \_Banco de dados SQL
 
@@ -208,7 +202,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 :black_large_square: 20-5: \_Projeto - All For One
 
-### Bloco 21: Funções SQL, Joins e Subqueries
+### Bloco 20: Funções SQL, Joins e Subqueries
 
 :black_large_square: 21-1: \_Funções mais usadas no SQL
 
@@ -218,7 +212,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 :black_large_square: 21-4: \_Projeto - Vocabulary Booster
 
-### Bloco 22: Normalização e Modelagem de Banco de Dados
+### Bloco 21: Normalização e Modelagem de Banco de Dados
 
 :black_large_square: 22-1: \_Transformando ideias em um modelo de banco de dados - Parte 1
 
@@ -228,7 +222,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 :black_large_square: 22-3: \_Projeto - One For All
 
-### Bloco 23: Introdução - MongoDB
+### Bloco 22: Introdução - MongoDB
 
 :black_large_square: 23-1: \_Introdução NoSQL e MongoDB
 
@@ -236,7 +230,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 :black_large_square: 23-3: \_Projeto - Data Flights
 
-### Bloco 24: MongoDB: Updates simples e complexos
+### Bloco 23: MongoDB: Updates simples e complexos
 
 :black_large_square: 24-1: \_Updates Simples
 
@@ -246,7 +240,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 :black_large_square: 24-4: \_Projeto - Commerce
 
-### Bloco 25: MongoDB: Aggregation Framework
+### Bloco 24: MongoDB: Aggregation Framework
 
 :black_large_square: 25-1: \_Aggregation Framework - Part 1
 
@@ -254,7 +248,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 :black_large_square: 25-3: \_Projeto - Aggregations
 
-### Bloco 26: Introdução - NodeJS
+### Bloco 25: Introdução - NodeJS
 
 :black_large_square: 26-1: \_NodeJS - Introdução
 
@@ -268,7 +262,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 :black_large_square: 26-6: \_Projeto - Talker Manager
 
-### Bloco 27: NodeJS: Camada de Serviço e Arquitetura Rest e Restful
+### Bloco 26: NodeJS: Camada de Serviço e Arquitetura Rest e Restful
 
 :black_large_square: 27-1: \_Introdução e Camada de Model: Arquitetura de Software
 
@@ -280,7 +274,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 :black_large_square: 27-3: \_Projeto - Store Manager
 
-### Bloco 28: Autenticação e Upload de Arquivos
+### Bloco 27: Autenticação e Upload de Arquivos
 
 :black_large_square: 28-1: \_NodeJS - JWT - (JSON Web Token)
 
@@ -290,7 +284,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 :black_large_square: 28-3: \_Projeto - Cookmaster
 
-### Bloco 29: Depoloyment
+### Bloco 28: Depoloyment
 
 :black_large_square: 29-1: \_Introdução - Deploy
 
@@ -300,7 +294,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 :black_large_square: 29-3: \_Projeto - Stranger Things
 
-### Bloco 30: Arquitetura: SOLID e ORM
+### Bloco 29: Arquitetura: SOLID e ORM
 
 :black_large_square: 30-1: \_Arquitetura - Princípios SOLID
 
@@ -310,7 +304,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 :black_large_square: 30-4: \_Projeto - API de Blogs
 
-### Bloco 31: Sockets
+### Bloco 30: Sockets
 
 :black_large_square: 31-1: \_Arquitetura de Software - Camada de View
 
@@ -322,13 +316,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 :black_large_square: 31-5: \_Projeto - Webchat
 
-### Bloco 32: Projeto
+### Bloco 31: Projeto
 
 :black_large_square: 32-1: \_Projeto - Trybeer V
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
-### Bloco 33: Introdução - Ciência da Computação
+### Bloco 32: Introdução - Ciência da Computação
 
 :black_large_square: 33-1: \_Arquitetura de Computadores
 
@@ -338,7 +332,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 :black_large_square: 35-4: \_Projeto - Explorando os protocolos
 
-### Bloco 34: Introdução - Python e Raspagem de Dados da Web
+### Bloco 33: Introdução - Python e Raspagem de Dados da Web
 
 :black_large_square: 34-1: \_Aprendendo Python
 
@@ -350,7 +344,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 :black_large_square: 34-5: \_Projeto - Tech news
 
-### Bloco 35: Programação Orientada a Objetos e Padrões de Projeto
+### Bloco 34: Programação Orientada a Objetos e Padrões de Projeto
 
 :black_large_square: 35-1: \_Introdução - Programação orientada a objetos
 
@@ -360,7 +354,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 :black_large_square: 35-4: \_Projeto - Relatórios de Estoque
 
-### Bloco 36: Algoritmos e Estrutura de Dados
+### Bloco 35: Algoritmos e Estrutura de Dados
 
 :black_large_square: 36-1: \_Complexidade de Algoritmos
 
@@ -370,7 +364,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 :black_large_square: 36-4: \_Projeto - Algoritmos
 
-### Bloco 37: Estrutura de Dados: Hash e Set
+### Bloco 36: Estrutura de Dados: Hash e Set
 
 :black_large_square: 37-1: \_Arrays
 
@@ -380,7 +374,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 :black_large_square: 37-3: \_Projeto - Restaurant Orders
 
-### Bloco 38: Estrutura de Dados: Pilhas, Filas e Listas
+### Bloco 37: Estrutura de Dados: Pilhas, Filas e Listas
 
 :black_large_square: 38-1: \_Nó e Listas Encadeadas
 
