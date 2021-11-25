@@ -118,9 +118,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ### Bloco 10: Introdução - React
 
-:black_large_square: 11-1: 'Hello, world!' no React!\_
+:ballot_box_with_check: 11-1: 'Hello, world!' no React!\_
 
-:black_large_square: 11-2: \_Componentes React
+:ballot_box_with_check: 11-2: \_Componentes React
 
 :black_large_square: 11-3: \_Projeto - Movie Cards Library
 
