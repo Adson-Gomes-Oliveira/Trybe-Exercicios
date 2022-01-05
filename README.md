@@ -130,7 +130,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 :black_large_square: 12-2: \_Formulários no React
 
-:black\* large_square: 12-3: \_Projeto - Movie Cards Library Stateful
+:black_large_square: 12-3: \_Projeto - Movie Cards Library Stateful
 
 ### Bloco 12: Ciclo de Vida de Componentes e React Router
 
