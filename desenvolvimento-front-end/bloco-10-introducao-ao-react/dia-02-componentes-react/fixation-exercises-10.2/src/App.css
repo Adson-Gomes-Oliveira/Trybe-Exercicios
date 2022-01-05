@@ -1,0 +1,39 @@
+.main-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2px 15px;
+  background-color: rgb(73, 73, 226);
+}
+
+h1 {
+  font-style: italic;
+  font-size: 25px;
+  color: white;
+}
+
+.menu {
+  display: flex;
+  list-style: none;
+  margin-left: 0;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: 700;
+  color: white;
+}
+
+.menu li {
+  margin: 0 6px;
+}
+
+.promo-section {
+  display: flex;
+  flex-direction: column;
+  margin: 0 15px;
+}
+
+.cards {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}

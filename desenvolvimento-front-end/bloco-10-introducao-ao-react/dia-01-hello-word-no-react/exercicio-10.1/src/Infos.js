@@ -26,6 +26,12 @@ class Infos extends Component {
         armazenamento: '64GB',
         memóriaRam: '6GB',
         preço: '1199'
+      },
+      {
+        modelo: 'Asus Zenfone Pro Max(M2)',
+        armazenamento: '64GB',
+        memóriaRam: '6GB',
+        preço: '1199'
       }
     ]
 
