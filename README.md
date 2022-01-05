@@ -118,17 +118,17 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ### Bloco 10: Introdução - React
 
-:ballot_box_with_check: 11-1: 'Hello, world!' no React!\_
+:ballot_box_with_check: 10-1: 'Hello, world!' no React!\_
 
-:ballot_box_with_check: 11-2: \_Componentes React
+:ballot_box_with_check: 10-2: \_Componentes React
 
-:black_large_square: 11-3: \_Projeto - Movie Cards Library
+:ballot_box_with_check: 10-3: \_Projeto - Solar System
 
 ### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
-:black_large_square: 12-1: \_Components com estado e eventos
+:ballot_box_with_check: 11-1: \_Componentes com estado e eventos
 
-:black\* large_square: 12-2: \_Formulários no React
+:black_large_square: 12-2: \_Formulários no React
 
 :black\* large_square: 12-3: \_Projeto - Movie Cards Library Stateful
 
