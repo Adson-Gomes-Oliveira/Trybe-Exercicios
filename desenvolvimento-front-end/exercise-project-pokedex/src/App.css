@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px 0;
+  color: white;
+  background-color: black;
+  height: auto;
+}
+
+.divisor {
+  width: 100%;
+  height: 10px;
+  background-color: rgb(243, 138, 0);
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+section div button{
+  border: none;
+  border-radius: 0px 0px 5px 5px;
+  padding: 15px 30px;
+  margin: 0 10px;
+  font-weight: 700;
+  color: white;
+  background-color: rgb(243, 138, 0);
+}
+
+section div button:hover {
+  cursor: pointer;
+  transition: 0.3s ease-out;
+  background-color: rgb(204, 116, 0);
+}
+
+section ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+form {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 60px;
+  width: 550px;
+}
+
+form input {
+  width: 400px;
+  height: 35px;
+  border: 2px solid rgb(243, 138, 0);
+  border-radius: 5px;
+  text-align: center;
+}
+
+form button {
+  font-weight: 700;
+  width: 120px;
+  height: 35px;
+  border-style: none;
+  border-radius: 5px;
+  color: white;
+  background-color: rgb(243, 138, 0);
+}
+
+form button:hover {
+  cursor: pointer;
+  transition: 0.3s ease-out;
+  background-color: rgb(204, 116, 0);
+}
+
+.filter-box{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: row;
+  width: 550px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.filter-box div {
+  display: flex;
+}
+
+.filter-box div li {
+  color:rgb(243, 138, 0);
+  font-weight: 700;
+  margin-left: 10px;
+  padding: 10px;
+  border: 2px solid rgb(243, 138, 0);
+  border-radius: 6px;
+}
