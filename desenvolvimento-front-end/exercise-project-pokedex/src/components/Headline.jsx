@@ -7,9 +7,9 @@ class Headline extends Component {
     const presetOption = type.toLowerCase();
     const preset = {
       title: <h1 className={`title ${addClass}`}>{text}</h1>,
-      subtitle: <h2 className="subtitle">{text}</h2>,
-      subtitle3: <h3 className="subtitle3">{text}</h3>,
-      pg: <p>{text}</p>
+      subtitle: <h2 className={`subtitle ${addClass}`}>{text}</h2>,
+      subtitle3: <h3 className={`subtitle3 ${addClass}`}>{text}</h3>,
+      pg: <p className={`paragraph ${addClass}`}>{text}</p>
     };
     return <>{preset[presetOption]}</>
   }
