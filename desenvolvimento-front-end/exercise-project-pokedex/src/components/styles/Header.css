@@ -1,0 +1,10 @@
+.main-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  background: url('../../assets/back_loading.jpg');
+  color: white;
+  border-bottom: 6px solid #01074E;
+}
