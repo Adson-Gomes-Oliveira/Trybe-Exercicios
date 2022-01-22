@@ -1,0 +1,75 @@
+.section-pokedex {
+  flex: 2;
+  width: 70vw;
+  background: rgba(0, 0, 0, 0.4) url('../../assets/back_pokedex.jpg');
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: darken;
+  background-attachment: fixed;
+  border-right: 6px solid #01074E;
+}
+
+.list-of-pokemons {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 30px;
+}
+
+.list-of-pokemons li {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.6) url(../../assets/Background_Cards.jpg);
+  background-size: cover;
+  background-blend-mode: darken;
+  align-items: center;
+  min-width: 250px;
+  min-height: 385px;
+  margin-bottom: 30px;
+  border: 4px solid rgb(0, 33, 77);
+  border-radius: 10px;
+}
+
+.list-of-pokemons h3 {
+  color: white;
+  font-size: 24px;
+  text-transform: capitalize;
+  margin-top: 10px;
+}
+
+.list-of-pokemons img {
+  width: 150px;
+  height: 150px;
+}
+
+.status {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(255, 166, 0);
+  width: 100%;
+  height: 100%;
+}
+
+.status h3 {
+  color: black;
+}
+
+.status p {
+  font-size: 14px;
+}
+
+.first-status {
+  margin-top: 10px;
+  margin-left: 15px;
+}
+
+.status-title {
+  margin: 10px 0;
+  align-self: center;
+}
+
+.second-status {
+  margin-left: 15px;
+}
