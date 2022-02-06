@@ -46,6 +46,8 @@ As principais habilidades técnicas estudadas são JavaScript, HTML, CSS, React,
 
 :ballot_box_with_check: Bloco 18: Projeto Final de Front-end
 
+## Desenvolvimento Back-end :hourglass_flowing_sand:
+
 :ballot_box_with_check: Bloco 19: Introdução - SQL
 
 :ballot_box_with_check: Bloco 20: Funções SQL, Joins e Subqueries
