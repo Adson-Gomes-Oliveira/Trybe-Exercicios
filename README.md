@@ -6,7 +6,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 As principais habilidades técnicas estudadas são JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git [...] entre outras linguagens e frameworks.
 
-### Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
+### Fundamentos do Desenvolvimento Web ✔️
 
 :ballot_box_with_check: Bloco 1: Introdução - Unix & Shell
 
