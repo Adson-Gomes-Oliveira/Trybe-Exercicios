@@ -11,13 +11,17 @@ function App() {
   const [ second, setSeconds ] = useState(INITIAL_SECONDS);
 
   useEffect(() => {
-      setTimeout(() => {
+      const number = setInterval(() => {
         const number = parseInt((Math.random() * (100 - 0) + 0));
         setNumber(number);
         const verify = number % 3 === 0 || number % 5 === 0;
         verify ? setFeedback('Acertou') : setFeedback('Errou');
         att === 0 ? setAtt(1) : setAtt(0);
       }, 10000);
+
+      return () => {
+        clearInterval(number)
+      }
   }, [att]);
 
   useEffect(() => {
