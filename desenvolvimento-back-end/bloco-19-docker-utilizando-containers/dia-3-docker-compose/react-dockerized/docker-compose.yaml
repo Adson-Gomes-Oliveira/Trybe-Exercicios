@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  front-end:
+    image: react-aladocker:v1
+    ports: [8080:80]
+    volumes:
+     [/home/ash/Trybe-Repo/Trybe-Exercicios/desenvolvimento-back-end/bloco-19-docker-utilizando-containers/dia-3-docker-compose/react-dockerized/:/app] 
+    
