@@ -1,27 +1,21 @@
-const { femaleRandom } = require('dog-names');
-const { sum, sub, mul, div } = require('./operacoes');
+const imc = require('./imc');
 const rs = require('readline-sync');
+const fs = require('fs');
 
-console.log("Calculadora Simples");
+console.log('==========================');
+console.log('Calculadora de IMC');
+console.log('==========================');
+const askName = () => rs.question('Qual é seu nome? -> ');
+const askHeight = () => rs.questionFloat('Digite sua altura: ');
+const askWeight = () => rs.questionFloat('Digite seu peso: ');
 
-const num1 = rs.questionInt("Digite um número: ");
-const op = rs.question("Digite a operação (+, -, *, /): ");
-const num2 = rs.questionInt("Digite um número: ");
+const name = askName();
+const height = askHeight();
+const weight = askWeight();
 
-switch (op) {
-  case '+':
-    sum(num1, num2)
-    break;
-  case '-':
-    sub(num1, num2)
-    break;
-  case '*':
-    mul(num1, num2)
-    break;
-  case '/':
-    div(num1, num2)
-    break;
-  default:
-    console.log("invalido");
-    break;
-}
+const result = imc(height, weight);
+fs.appendFileSync('imc.txt', `O IMC de ${name} é: ${result}\n`);
+const data = fs.readFileSync('./imc.txt', {encoding: 'utf-8', flag: 'r'});
+
+console.log('==========================');
+console.log(data);
