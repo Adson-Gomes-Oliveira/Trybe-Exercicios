@@ -87,3 +87,50 @@ As principais habilidades técnicas estudadas são JavaScript, HTML, CSS, React,
 :ballot_box_with_check: Bloco 36: Estrutura de Dados: Hash e Set
 
 :ballot_box_with_check: Bloco 37: Estrutura de Dados: Pilhas, Filas e Listas
+
+
+### Parte 0 - Abrir essa Issue e o PR
+
+- [ ] Abri a issue
+- [ ] Abri o PR
+
+### Parte 1 - Revisão dos conteúdos e exercícios
+
+- [ ] 22.4 - Express - HTTP com NodeJS
+- [ ] 22.5 - Express - Middlewares
+- [ ] 22.2 - Fluxo Assíncrono
+
+### Parte 2 - Garantir que assimilei os seguintes conteúdos
+
+- [ ] Como colocar uma aplicação node para rodar (Docker ou Nodemon)
+- [ ] Como ler o conteúdo de um arquivo json com o módulo `fs`
+- [ ] Como escrever o conteúdo em um arquivo json com o módulo `fs`
+- [ ] Como definir uma rota do tipo GET 
+- [ ] Como receber um parâmetro de rota
+- [ ] Como definir uma rota do tipo POST
+- [ ] Como obter os dados que são enviados em uma requisição do tipo POST
+- [ ] Como validar os dados recebidos em um middleware e retornar uma resposta de erro.
+- [ ] Como definir uma rota do tipo PUT
+- [ ] Como definir uma rota do tipo DELETE
+- [ ] Como usar a função `next()` do Express
+- [ ] Como enviar um valor no **Header** de uma requisição
+- [ ] Como receber dados via query string.
+
+### Parte 3 - Resolver requisitos
+
+Crie uma meta diária. Se você fizer um requisito por dia a partir de hoje, é possível ainda entregar o projeto ainda dentro do prazo regular. Se você fizer dois requisitos por dia, é possível terminar esse projeto antes do começo do próximo projeto.
+
+Lembre-se que a partir de amanhã vamos começar um bloco novo, então é importante administrar o tempo para ler o conteúdo do dia e reservar tempo de qualidade para se dedicar a finalizar esse projeto.
+
+- [ ] 1 - Crie o endpoint GET /talker
+- [ ] 2 - Crie o endpoint GET /talker/:id
+- [ ] 3 - Crie o endpoint POST /login
+- [ ] 4 - Adicione as validações para o endpoint /login
+- [ ] 5 - Crie o endpoint POST /talker
+- [ ] 6 - Crie o endpoint PUT /talker/:id
+- [ ] 7 - Crie o endpoint DELETE /talker/:id
+- [ ] 8 - Crie o endpoint GET /talker/search?q=searchTerm
+
+
+
+
