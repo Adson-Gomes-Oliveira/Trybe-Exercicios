@@ -1,0 +1,129 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "version": "1.0.0",
+    "title": "REST API",
+    "description": ""
+  },
+  "host": "localhost:3000",
+  "basePath": "/",
+  "schemes": [
+    "http"
+  ],
+  "paths": {
+    "/": {
+      "get": {
+        "description": "Get all movies from Database",
+        "parameters": [],
+        "responses": {}
+      },
+      "post": {
+        "description": "Add some movie in Database",
+        "parameters": [
+          {
+            "name": "body",
+            "in": "body",
+            "schema": {
+              "type": "object",
+              "properties": {
+                "title": {
+                  "example": "FORREST GUMP"
+                },
+                "rating": {
+                  "example": "PG-13"
+                },
+                "description": {
+                  "example": "Forrest Gump is a 1994 American comedy-drama film directed by Robert Zemeckis and written by Eric Roth."
+                },
+                "language_id": {
+                  "example": "1"
+                },
+                "special_features": {
+                  "example": "Behind the Scenes"
+                }
+              }
+            }
+          }
+        ],
+        "responses": {}
+      }
+    },
+    "/search": {
+      "get": {
+        "description": "Search any movie",
+        "parameters": [
+          {
+            "name": "title",
+            "in": "query",
+            "type": "string"
+          }
+        ],
+        "responses": {}
+      }
+    },
+    "/page/{page}": {
+      "get": {
+        "description": "Select a page of results [20 result each page]",
+        "parameters": [
+          {
+            "name": "page",
+            "in": "path",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "responses": {}
+      }
+    },
+    "/{id}": {
+      "put": {
+        "description": "Edit a movie",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "name": "body",
+            "in": "body",
+            "schema": {
+              "type": "object",
+              "properties": {
+                "title": {
+                  "example": "FORREST GUMP"
+                },
+                "rating": {
+                  "example": "PG-13"
+                },
+                "description": {
+                  "example": "Forrest Gump is a 1994 American comedy-drama film directed by Robert Zemeckis and written by Eric Roth."
+                },
+                "language_id": {
+                  "example": "1"
+                },
+                "special_features": {
+                  "example": "Behind the Scenes"
+                }
+              }
+            }
+          }
+        ],
+        "responses": {}
+      },
+      "delete": {
+        "description": "Delete a movie",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "responses": {}
+      }
+    }
+  }
+}
