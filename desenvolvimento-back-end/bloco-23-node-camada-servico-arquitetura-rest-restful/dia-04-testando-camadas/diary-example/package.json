@@ -1,0 +1,21 @@
+{
+  "name": "diary-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha .",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0",
+    "sinon": "^14.0.0"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
